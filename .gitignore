@@ -1,0 +1,6 @@
+# Remove anything in the data path
+data/*
+
+# Remove the instruction_docs
+instruction_docs/*
+
