@@ -4,3 +4,5 @@ data/*
 # Remove the instruction_docs
 instruction_docs/*
 
+# Remove the results
+results/*
