@@ -6,3 +6,6 @@ instruction_docs/*
 
 # Remove the results
 results/*
+
+# Remove the venv
+venv/*
